@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Sports Hall</string>
+    <string name="firstName">Enter first name</string>
+    <string name="lastName">Enter last name</string>
+    <string name="patronymic">Enter patronymic</string>
+    <string name="phoneNumber">Enter phone number</string>
+    <string name="birthDay">Select date</string>
+    <string name="idTrainer">Select id trainer</string>
+
 </resources>
